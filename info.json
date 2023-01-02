@@ -1,1 +1,29 @@
+{"name":"bloxberg",
+"tokenSymbol":null,
+"DaoOS":"Snapshot",
+"address":null,
+"description":"bloxberg is the blockchain from science for science with the largest PoA network worldwide, run only by research organizations. Our mission is to advance science with its own blockchain infrastructure and to enable society as a whole to secure data with the reputational proof of research organizations worldwide. bloxberg is based on a public, permissioned implementation of Ethereum, featuring smart contract functionalities and using the network of nodes from the bloxberg association. ",
+"whitePaperLink":"https://bloxberg.org/wp-content/uploads/2022/07/bloxberg_whitepaper_2.0.pdf",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/6AmbXTU.png",
+       "source": "image",
+       "link": "ttps://bloxberg.org/"
+   }
+],
+"deleted":false,
+"primaryColor":"#e01d6c",
+"twitterHandle":"bloxberg_info",
+"coingeckoId":null,
+"snapshotId":null,
+"logo":"https://i.imgur.com/FWrdwPa.png",
+"telegramLink":null,
+"discordLink":null,
+"website":"https://bloxberg.org/",
+"tokenDescription":null,
+"tokenTradeLink":null,
 
+"tags":["Blockchain protocols", "Ecosystems"]
+  
+}
